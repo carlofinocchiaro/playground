@@ -1,2 +1,2 @@
 # playground
-Site playground
+Site Playground
