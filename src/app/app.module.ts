@@ -17,7 +17,7 @@ import { WelcomeComponent } from './components/welcome/welcome.component';
     BrowserAnimationsModule,
     CardModule
   ],
-  providers: [],
+  providers: [ { provide: LOCALE_ID, useValue: 'it' } ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
