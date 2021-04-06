@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  /* MAIN SETTINGS */
+  font-family: 'Merriweather Sans', sans-serif;
+  --fontColor: #1b1b1b;
+  --brandColor: #DD2317;
+  /* TOOLBAR SETTINGS */
+  --toolbarFontColor: #1b1b1b;
+  --toolbarBackgroundColor: white;
+}
