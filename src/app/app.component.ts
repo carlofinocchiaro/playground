@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Playground';
+  mainSite = 'https://carlofinocchiaro.github.io/';
 }
